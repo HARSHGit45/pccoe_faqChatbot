@@ -1,0 +1,359 @@
+{
+  "questions": [
+
+
+
+    {
+      "question": "Bye",
+      "answer": "Goodbye! Have a great day."
+  },
+  {
+      "question": "Thank you",
+      "answer": "You're welcome! If you have any more questions in the future, feel free to ask."
+  },
+
+    {
+      "question": "Hi",
+      "answer": "Hello! Welcome to PCET PCCOE official website."
+    },
+    {
+      "question": "What is PCET PCCOE?",
+      "answer": "PCET PCCOE stands for Pimpri Chinchwad Education Trust's Pimpri Chinchwad College of Engineering. It is an engineering college located in Pune, Maharashtra, India."
+    },
+    {
+      "question": "Where is PCET PCCOE located?",
+      "answer": "PCET PCCOE is located in Nigdi, Pune, Maharashtra, India."
+    },
+    {
+      "question": "What courses does  PCCOE offer?",
+      "answer": "PCET PCCOE offers undergraduate (UG) and postgraduate (PG) courses in various disciplines of engineering such as Computer Science Engineering(AiMl), Computer Engineering, Information Technology, Electronics & Telecommunication Engineering, Mechanical Engineering, and Civil Engineering."
+  },
+  {
+      "question": "Are there any scholarships available at PCET PCCOE?",
+      "answer": "Yes, PCET PCCOE offers scholarships to deserving students based on academic performance, financial need, or other criteria. Students can inquire with the college administration or visit the official website for more information on available scholarships and eligibility criteria."
+  },
+  {
+      "question": "Is PCET PCCOE an autonomous institute?",
+      "answer": "Yes, PCET PCCOE is an autonomous institute. Autonomy allows the college to design and revise its curriculum, conduct examinations, and make administrative decisions independently, ensuring academic freedom and flexibility."
+  },
+  {
+      "question": "What facilities are provided at PCET PCCOE?",
+      "answer": "PCET PCCOE offers state-of-the-art facilities to its students, including modern classrooms, well-equipped laboratories, a central library with a vast collection of books and online resources, hostel accommodation for both boys and girls, sports facilities, cafeteria, auditorium, and transportation services. Additionally, the college has industry tie-ups for internships and training programs."
+  },
+
+    {
+      "question": "What were the placement details for Computer branch students in the year 2018-19?",
+      "answer": "For the Computer branch students in the year 2018-19, the total number of students was 221, with 177 eligible students and 177 students placed."
+    },
+    {
+      "question": "What were the placement details for IT branch students in the year 2018-19?",
+      "answer": "For the IT branch students in the year 2018-19, the total number of students was 62, with 55 eligible students and 41 students placed."
+    },
+    {
+      "question": "What were the placement details for E&TC branch students in the year 2018-19?",
+      "answer": "For the E&TC branch students in the year 2018-19, the total number of students was 214, with 157 eligible students and 134 students placed."
+    },
+    {
+      "question": "What were the placement details for Mechanical branch students in the year 2018-19?",
+      "answer": "For the Mechanical branch students in the year 2018-19, the total number of students was 223, with 190 eligible students and 134 students placed."
+    },
+    {
+      "question": "What were the placement details for Civil branch students in the year 2018-19?",
+      "answer": "For the Civil branch students in the year 2018-19, the total number of students was 60, with 49 eligible students and 15 students placed."
+    },
+    {
+      "question": "What were the placement details for Computer branch students in the year 2019-20?",
+      "answer": "For the Computer branch students in the year 2019-20, the total number of students was 203, with 183 eligible students and 179 students placed."
+    },
+    {
+      "question": "What were the placement details for IT branch students in the year 2019-20?",
+      "answer": "For the IT branch students in the year 2019-20, the total number of students was 76, with 58 eligible students and 61 students placed."
+    },
+    {
+      "question": "What were the placement details for E&TC branch students in the year 2019-20?",
+      "answer": "For the E&TC branch students in the year 2019-20, the total number of students was 210, with 149 eligible students and 165 students placed."
+    },
+    {
+      "question": "What were the placement details for Mechanical branch students in the year 2019-20?",
+      "answer": "For the Mechanical branch students in the year 2019-20, the total number of students was 225, with 168 eligible students and 158 students placed."
+    },
+    {
+      "question": "What were the placement details for Civil branch students in the year 2019-20?",
+      "answer": "For the Civil branch students in the year 2019-20, the total number of students was 52, with 51 eligible students and 52 students placed."
+    },
+    {
+      "question": "What were the placement details for Computer branch students in the year 2020-21?",
+      "answer": "For the Computer branch students in the year 2020-21, the total number of students was 177, with 179 eligible students and 177 students placed."
+    },
+    {
+      "question": "What were the placement details for IT branch students in the year 2020-21?",
+      "answer": "For the IT branch students in the year 2020-21, the total number of students was 55, with 41 eligible students and 41 students placed."
+    },
+    {
+      "question": "What were the placement details for E&TC branch students in the year 2020-21?",
+      "answer": "For the E&TC branch students in the year 2020-21, the total number of students was 157, with 134 eligible students and 122 students placed."
+    },
+    {
+      "question": "What were the placement details for Mechanical branch students in the year 2020-21?",
+      "answer": "For the Mechanical branch students in the year 2020-21, the total number of students was 190, with 126 eligible students and 126 students placed."
+    },
+    {
+      "question": "What were the placement details for Civil branch students in the year 2020-21?",
+      "answer": "For the Civil branch students in the year 2020-21, the total number of students was 49, with 13 eligible students and 13 students placed."
+    },
+    {
+      "question": "What were the placement details for Computer branch students in the year 2021-22?",
+      "answer": "For the Computer branch students in the year 2021-22, the total number of students was 183, with 184 eligible students and 179 students placed."
+    },
+    {
+      "question": "What were the placement details for IT branch students in the year 2021-22?",
+      "answer": "For the IT branch students in the year 2021-22, the total number of students was 67, with 57 eligible students and 67 students placed."
+    },
+    {
+      "question": "What were the placement details for E&TC branch students in the year 2021-22?",
+      "answer": "For the E&TC branch students in the year 2021-22, the total number of students was 162, with 153 eligible students and 162 students placed."
+    },
+    {
+      "question": "What were the placement details for Mechanical branch students in the year 2021-22?",
+      "answer": "For the Mechanical branch students in the year 2021-22, the total number of students was 119, with 126 eligible students and 119 students placed."
+    },
+    {
+      "question": "What were the placement details for Civil branch students in the year 2021-22?",
+      "answer": "For the Civil branch students in the year 2021-22, the total number of students was 11, with 11 eligible students and 11 students placed."
+    },
+
+    {
+      "question": "Which company offers the highest salary among the listed recruiters?",
+      "answer": "ZF India offers the highest salary of 32 Lacs per year."
+    },
+    {
+      "question": "What is the salary offered by CloudEra?",
+      "answer": "CloudEra offers a salary of 22.5 Lacs per year."
+    },
+    {
+      "question": "What is the salary offered by Veritas?",
+      "answer": "Veritas offers a salary of 12.5 Lacs per year."
+    },
+    {
+      "question": "Which company offers a salary of 10 Lacs per year?",
+      "answer": "Several companies offer a salary of 10 Lacs per year, including VMware, LTI, Thrillophilia, and Quantiphi."
+    },
+    {
+      "question": "What is the salary offered by Airbus?",
+      "answer": "Airbus offers a salary of 9 Lacs per year."
+    },
+    {
+      "question": "Which company offers a salary of 8.6 Lacs per year?",
+      "answer": "FIS Global offers a salary of 8.6 Lacs per year."
+    },
+
+    {
+      "question": "How many students has PCET placed from across India in the last few years?",
+      "answer": "PCET has placed more than 22,000 students from across India in the last few years through On Campus/ Off campus/ Pool Campus Drives."
+    },
+    {
+      "question": "How many recruitment drives does PCET generally conduct every year?",
+      "answer": "Around 600 Recruitment Drives are generally conducted by PCET every year."
+    },
+    {
+      "question": "What is the maximum salary offered to PCET students per year?",
+      "answer": "The maximum salary offered to PCET students per year is 32 Lacs."
+    },
+    {
+      "question": "Can you name some of the international placements secured by PCET students along with their package details?",
+      "answer": "PCET students have secured international placements with packages of 20 Lacs & 17 Lacs in Japan."
+    },
+    {
+      "question": "Which companies have accredited PCCOE for placements?",
+      "answer": "PCCOE is accredited by reputed companies like TCS, KPIT Technologies, Cap Gemini, & Wipro for placements."
+    },
+    {
+      "question": "How many job seekers and placement-related individuals follow PCET on various social media platforms?",
+      "answer": "Around 1,20,000 job seekers, training, and placement-related individuals follow PCET on various social media platforms."
+    },
+    {
+      "question": "Can you provide details about the quality placements at PCET for the 2019-20 batch?",
+      "answer": "For the 2019-20 batch, PCET offered 88 placements above 7 Lacs, 254 placements above 5 Lacs, and 541 placements above 4 Lacs."
+    },
+    {
+      "question": "What are the quantity placements like for PCET students?",
+      "answer": "PCET offered a total of 658 placement offers in the first 30 companies for students in the Academic Year 2019-20."
+    },
+    {
+      "question": "Can you list some of the reputed core companies that recruit students from PCET?",
+      "answer": "Reputed core companies like KSB Pumps, Alfa Laval, Godrej, Minda, KPIT, Cummins, Whirlpool, Volkswagen, Atlas Copco, Forbes Marshall, Dassault Systems, Tata Communication, Tetra Pak, Kone Cranes, Kirloskar, Siemens, SKF, Samsung R&D, L&T Technologies, and many others recruit students of PCET."
+    },
+    {
+      "question": "How many industry institute interaction meets has PCET conducted?",
+      "answer": "PCET has conducted Eight Industry Institute Interaction Meets."
+    },
+    {
+      "question": "How many pool/off-campus drives are conducted by PCET every year, and who can participate in them?",
+      "answer": "PCET conducts around 200 Pool/Off Campus drives every year, which are open for students across Maharashtra/India."
+    },
+    {
+      "question": "Could you name some of the major recruiters at PCET along with the packages they offer?",
+      "answer": "Some of the major recruiters at PCET include ZF India (32 L), Amazon (28 L), Directi (26 L), Konica (Japan) (20 L), Techfirm (Japan) (17 L), HSBC (12 L), Adobe (11 L), Flipkart (11 L), Credit Suisse (11 L), VMware (10 L), LTI (10 L), Quantiphi (9.5 L), Symantec (9 L), and Persistent (8.4 L)."
+    },
+    {
+      "question": "Can you provide details about some of the major off-campus drives conducted by PCET, including the number of students registered and offers made?",
+      "answer": "Certainly. Some major off-campus drives conducted by PCET include TCS (4500 students registered, 640 offers made), Cognizant (2000 students registered, 392 offers made), IBM (3500 students registered, 230 offers made), L&T Infotech (2500 students registered, 220 offers made), Accenture (2200 students registered, 219 offers made), Capgemini (14000 students registered, 198 offers made), HP (9000 students registered, 194 offers made), Infosys (1500 students registered, 90 offers made), TechMahindra (800 students registered, 71 offers made), and Amdocs (1500 students registered, 70 offers made)."
+    },
+    {
+      "question": "What are the top three companies that recruited PCET students in the year 2016-2017?",
+      "answer": "The top three companies that recruited PCET students in the year 2016-2017 were KPIT Technologies (155), Capgemini (37), and Tech Mahindra (33), totaling to 225 recruited students."
+    },
+    {
+      "question": "What is the average salary package offered to PCET students by ZF India?",
+      "answer": "The average salary package offered to PCET students by ZF India is 32 Lacs."
+    },
+    
+    {
+      "question": "Who is the TPO (Training and Placement Officer) of PCET Pune?",
+      "answer": "The TPO (Training and Placement Officer) of PCET Pune is Shital Kumar Rawandale."
+    },
+    {
+      "question": "How can I register for campus placement?",
+      "answer": "To register for campus placement, students need to fill out the placement registration form available on the college's official website and submit the required documents."
+    },
+    {
+      "question": "What are the eligibility criteria for placement?",
+      "answer": "The eligibility criteria for placement vary depending on the company's requirements. Generally, students need to meet certain academic criteria and have no active backlogs."
+    },
+    {
+      "question": "How can I prepare for placement interviews?",
+      "answer": "Students can prepare for placement interviews by participating in mock interviews, attending placement training sessions conducted by the college, and practicing commonly asked interview questions."
+    },
+    {
+      "question": "What companies visit for campus placement?",
+      "answer": "Several renowned companies visit the college for campus placement, including IT firms, multinational corporations, and startups. The placement cell regularly updates the list of visiting companies."
+    },
+    {
+      "question": "How are students shortlisted for placement interviews?",
+      "answer": "Students are shortlisted for placement interviews based on their academic performance, resume screening, and sometimes through pre-placement talks conducted by the companies."
+    },
+    {
+      "question": "What documents are required for placement?",
+      "answer": "Students need to submit their resume, academic transcripts, identity proof, and any other documents requested by the placement cell."
+    },
+    {
+      "question": "Do students need to pay any fees for placement?",
+      "answer": "No, there are no additional fees for placement. It is included as part of the college's services to students."
+    },
+    {
+      "question": "Is placement assistance provided for non-technical roles?",
+      "answer": "Yes, the placement cell provides assistance for both technical and non-technical roles. Students interested in non-technical roles can participate in placement drives conducted by relevant companies."
+    },
+    {
+      "question": "How can I update my placement registration details?",
+      "answer": "Students can update their placement registration details by contacting the placement cell or through the online portal provided by the college."
+    },
+    {
+      "question": "What is the placement success rate at PCET PCCOE College?",
+      "answer": "The placement success rate varies each year depending on several factors such as the economy, industry trends, and student performance. The placement cell publishes placement statistics annually."
+    },
+
+    {
+      "question": "Which companies conducted major off-campus drives?",
+      "answer": "The major off-campus drives were conducted by TCS, Cognizant, Capgemini, IBM, L&T Infotech, Accenture, HP, Infosys, TechMahindra, Amdocs, KPIT, and Atos."
+    },
+    {
+      "question": "How many students registered for the TCS off-campus drive?",
+      "answer": "4500 students registered for the TCS off-campus drive."
+    },
+    {
+      "question": "How many offers were made by Cognizant?",
+      "answer": "Cognizant made 392 offers."
+    },
+    {
+      "question": "Which company had the highest number of student registrations?",
+      "answer": "Capgemini had the highest number of student registrations with 14,000."
+    },
+    {
+      "question": "What is the total number of offers made by all the companies combined?",
+      "answer": "The total number of offers made by all the companies combined is 2,091."
+    },
+    {
+      "question": "How many offers were made by Infosys?",
+      "answer": "Infosys made 90 offers."
+    },
+    {
+      "question": "Which company conducted an off-campus drive specifically for Pune students?",
+      "answer": "TechMahindra conducted an off-campus drive specifically for Pune students."
+    },
+    {
+      "question": "How many students registered for the Atos off-campus drive?",
+      "answer": "4,191 students registered for the Atos off-campus drive."
+    },
+
+    {
+      "question": "What are some major core companies that recruit students from PCET?",
+      "answer": "Some major core companies that recruit students from PCET include Alfa Laval, Tetrapak, KSB Ltd., Dassault Systemes, Mahindra & Mahindra, TE Connectivity, Tenneco, Lear Corporation, Volkswagen, ADVIK HI TECH, Worley, Expleo, Minilec, Jabil Circuits India Pvt. Ltd., Mitsubishi Electric, Flextronics Technologies (I), EXFO, TATA Communication, Shini Plastics, Sydler Electronics Pvt. Ltd., KPIT, RDC Concrete, EQ Technologic, Onduline India, VMware, Neilsoft, Telge Projects, Godrej and Boyce, Gate city, Karandikar Lifespaces, Vilas Javdekar, and MediaOcean."
+    },
+    {
+      "question": "Which core companies recruit Mechanical students from PCET?",
+      "answer": "Mechanical students from PCET are recruited by Alfa Laval, Tetrapak, KSB Ltd., Dassault Systemes, Mahindra & Mahindra, TE Connectivity, Tenneco, Lear Corporation, Volkswagen, ADVIK HI TECH, Worley, and Flextronics Technologies (I)."
+    },
+    {
+      "question": "Which core companies recruit E&TC students from PCET?",
+      "answer": "E&TC students from PCET are recruited by Expleo, Minilec, Jabil Circuits India Pvt. Ltd., Mitsubishi Electric, Sydler Electronics Pvt. Ltd., KPIT, and Vilas Javdekar."
+    },
+    {
+      "question": "Which core companies recruit Civil students from PCET?",
+      "answer": "Civil students from PCET are recruited by RDC Concrete, Onduline India, Karandikar Lifespaces, and Gate city."
+    },
+    {
+      "question": "Which core companies recruit IT students from PCET?",
+      "answer": "IT students from PCET are recruited by EQ Technologic, QUANTIPHI, PERSISTENT, Xoriant, Yardi, Xoriant, and MediaOcean."
+    },
+
+    {
+      "question": "What training courses does the Training & Placement cell offer?",
+      "answer": "The Training & Placement cell offers aptitude, programming, and soft skills training courses, each totaling around 120 hours."
+    },
+    {
+      "question": "How are mock group discussions conducted?",
+      "answer": "Mock group discussions are conducted by alumni, T&P faculty, and placed students."
+    },
+    {
+      "question": "Who conducts mock interview activities?",
+      "answer": "Mock interview activities are conducted by alumni, T&P faculty, and placed students."
+    },
+    {
+      "question": "How many mock tests are conducted?",
+      "answer": "The Training & Placement cell conducts 15 to 20 general mock tests and 5 to 10 company-specific mock tests."
+    },
+    {
+      "question": "What assessment tests are conducted through platforms like Cocubes and FirstNaukri?",
+      "answer": "Assessment tests through platforms like Cocubes and FirstNaukri are conducted to assess students' skills."
+    },
+    {
+      "question": "What type of training is provided for mass recruiters?",
+      "answer": "Company-specific training is provided for mass recruiters."
+    },
+    {
+      "question": "What activities do placed students conduct for their juniors?",
+      "answer": "Placed students conduct sessions for their juniors, offering guidance and advice."
+    },
+    {
+      "question": "Where can I find the sessions conducted by placed students for their juniors?",
+      "answer": "You can find the sessions conducted by placed students for their juniors at this link: [Sessions by Placed Students](https://drive.google.com/file/d/1FrXMMpCUft-ENVgB65sYrbzlmUhRw8M-/view?usp=sharing)"
+    },
+    {
+      "question": "Where can I find the list of activities conducted by the Placement Cell?",
+      "answer": "You can find the list of activities conducted by the Placement Cell at this link: [List of Activities](https://docs.google.com/spreadsheets/d/1EKJzRFeCOpZDLcxFTI84lvYZMJ2rOkpTfmhseCD8H8/edit?usp=sharing)"
+    }
+
+
+
+
+
+  ]
+}
+
+  
+  
+  
+  
+  
+  
